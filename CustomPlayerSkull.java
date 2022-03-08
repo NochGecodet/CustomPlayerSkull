@@ -17,3 +17,7 @@ public static ItemStack gethead(String name,String[] lores,String url){
         head.setItemMeta(headM);
         return head;
         }
+
+// https://minecraft-heads.com/custom-heads
+// 1. select a custom skull
+// 2. scroll down and copy by Other the "Value" URL and put that in the url.
