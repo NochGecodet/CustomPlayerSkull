@@ -1,2 +1,2 @@
 # CustomPlayerSkull
-by Maurice x3
+by AbschlussZeugnis
